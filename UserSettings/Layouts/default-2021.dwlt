@@ -325,7 +325,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Stanley\My project
+  m_LastProjectPath: C:\Users\Stanley\My project\Did-I-Pass
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -490,21 +490,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 02caffff44caffff92caffffd6caffff0ecbffff26fbffff
+      m_ExpandedIDs: 26fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Circle
-        m_OriginalName: Circle
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 25126
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -796,7 +796,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 2.438847, y: -0.57653916, z: 0.105753824}
     speed: 2
-    m_Value: {x: 2.4411664, y: -0.3860922, z: 0.10317157}
+    m_Value: {x: 2.438847, y: -0.57653916, z: 0.105753824}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -849,7 +849,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 5.4800954
     speed: 2
-    m_Value: 5.73832
+    m_Value: 5.4800954
   m_Ortho:
     m_Target: 1
     speed: 2
